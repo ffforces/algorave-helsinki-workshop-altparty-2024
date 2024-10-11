@@ -17,7 +17,8 @@ SinOsc
 
 
 //sc links
-//https://discord.gg/th9vCaXP
+//supercollider discord: https://discord.gg/th9vCaXP
+//algorave helsinki discord: https://discord.gg/aJb6UTZft4
 //https://scsynth.org/
 //https://supercollider.github.io/
 //https://sccode.org/
