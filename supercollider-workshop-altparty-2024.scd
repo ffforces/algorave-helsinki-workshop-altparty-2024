@@ -41,13 +41,7 @@ SinOsc
 )
 
 
-// correct amount of parentheses is important
-(
 
-"hello world!!";
-
-
-)
 
 
 
