@@ -9,8 +9,6 @@
 s.boot;
 
 
-SinOsc
-
 //supercollider workshop
 //technical museum 11.10.2024
 //https://github.com/ffforces/algorave-helsinki-workshop-altparty-2024/
