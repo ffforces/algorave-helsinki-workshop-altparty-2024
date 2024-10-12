@@ -132,8 +132,12 @@ Out.ar(0, osc!2);
 )
 
 x=Synth(\sin);
-//does not work
+//does not work as supercollider reservers single letters from a - z to be used as global variables
 x1=Synth(\sin);
+// other way to use globals, would to write as ~something, like 
+~synth=Synth(\sin);
+
+
 
 x.set(\freq, 130);
 
