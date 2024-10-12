@@ -23,13 +23,17 @@ s.boot;
 
 
 
-
+//ctrl + enter for evaluating
+//cmd+enter on macs
+// shift+enter evaluate only that line
 
 "hello world!!";
 
 
 // these are comments
 
+
+//using parentheses is super handy. everything is evaluated what is inside the parenthesis
 
 
 (
