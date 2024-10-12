@@ -117,14 +117,13 @@ rrand(20,400);
 //notice how the server just adds all these oscilatiors on top of each other
 
 
-//synth definion
+//synth definition
 
-x.free;
 
 (
 SynthDef(\sin,{ arg freq=90;
 	
-var osc=VarSaw.ar(freq,mul:0.2);
+var osc=SinOsc.ar(freq,mul:0.2);
 
 //notice the multichannel expansion !2
 Out.ar(0, osc!2);
